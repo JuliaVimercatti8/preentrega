@@ -1,0 +1,46 @@
+/* ------------ GENERAL ----------- */
+.body
+{
+    background-color: rgb(223, 226, 228);
+}
+.uno
+{
+    color: #5E3931;
+    font-size: x-large;
+    font: raleway;
+}
+.dos
+{
+    color: #954535;
+    font-size: x-large;
+    font: raleway;
+}
+.tres
+{
+    color: #AF6E4D;
+    font-size: x-large;
+    font: raleway;
+}
+.cuatro
+{
+    color: #B7B7A4;
+    font-size: x-large;
+    font: raleway;
+}
+.cinco
+{
+    color: #A5A58D;
+    font-size: x-large;
+    font: raleway;
+}
+.seis
+{
+    color: #6B705C;
+    font-size: x-large;
+    font: raleway;
+}
+/* ------------ FIN DE GENERAL ---------- */
+.arriba
+{
+    height: 10%;
+}
